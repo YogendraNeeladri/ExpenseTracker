@@ -295,8 +295,6 @@ For questions or support, please contact:
 - Chart.js for excellent charting library
 - Tailwind CSS for utility-first CSS framework
 - MongoDB for flexible document database
-<<<<<<< HEAD
 - React community for amazing ecosystem
-=======
 - React community for amazing ecosystem
->>>>>>> fb71c1a33aaca015603d373140c560e5a4cfa8eb
+
