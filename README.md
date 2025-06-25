@@ -47,7 +47,7 @@ A full-stack web application for tracking personal expenses with interactive dat
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd expense-tracker-assignment
+cd expensetracker
 ```
 
 ### 2. Install Dependencies
@@ -288,7 +288,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For questions or support, please contact:
-- Email: yogiyadav1970@example.com
+- Email: yogiyadav1970@gmail.com
 
 ## 🎉 Acknowledgments
 
